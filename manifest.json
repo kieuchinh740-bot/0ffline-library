@@ -1,0 +1,10 @@
+{
+  "name": "Thu vien offline",
+  "short_name": "Thu vien",
+  "description": "Ung dung doc tai lieu offline",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6f5",
+  "theme_color": "#176b55"
+}
